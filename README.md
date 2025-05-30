@@ -35,8 +35,6 @@ I’m a passionate and growth-driven developer with around **2 years of real-wor
 
 - Advanced **React** patterns & performance optimization  
 - Deeper **TypeScript** usage in frontend projects  
-- Working with modern tools like **Zustand**, **React Query**, and **Framer Motion**
-
 ---
 
 ## 📫 Let’s Connect
