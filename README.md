@@ -17,17 +17,34 @@ I’m a passionate and growth-driven developer with around **2 years of real-wor
 
 ## 🚀 Projects I'm Proud Of
 
-- 🔹 **SwaggerDrill**  
+- 🔹 **SwaggerDrill** – *MERN + TypeScript*  
   API testing framework developed at **PerfAI.ai**, featuring:
   - OpenAPI/Swagger spec parsing
   - Intelligent dummy data generation
-  - Multi-auth support and test logging
+  - Multi-auth support and test logging  
+  📂 [GitHub Repo](https://github.com/abdulaamir9496/SwaggerDrill)
 
-- 🔹 **School Management Software**  
-  Full-stack MERN application built from scratch:
-  - Real client interaction & requirement gathering
-  - Prototype design, development, deployment
-  - Features like student registration, fees, reports, etc.
+- 🔹 **School Management Software** – *MERN Stack*  
+  A full-stack MERN application built from scratch as the final project during my MERN Stack training at **Career Guidance Council (Talent Development Center)**.
+  
+  - ✅ Real client interaction & requirement gathering  
+  - ✅ Prototype design, full development & deployment  
+  - ✅ Key features: student registration, fee management, reports, and more
+
+  **🧑‍🏫 Client Project:**  
+  Developed for **Gyanam The School**, located in **Shah Ali Banda, Hyderabad**. Our team conducted an on-site visit for live requirements gathering and planning sessions.
+
+  **🚀 Live Demo:**  
+  🔗 [School Management Web App](https://school-mngmt-iota.vercel.app/)  
+  (Deployed via Render & Vercel)
+
+- 🔹 **Pizza Ordering Demo Project** – *TypeScript*  
+  A frontend-only demo showcasing TypeScript basics and state management.  
+  📂 [GitHub Repo](https://github.com/abdulaamir9496/TypeScript/tree/main/Demo%20Project%20Ordering%20Pizza)
+
+- 🔹 **FilmVault** – *React.js + Firebase*  
+  A movie database web app built with React, integrated with Firebase for real-time data and authentication.  
+  📂 [GitHub Repo](https://github.com/abdulaamir9496/Project-FilmVault-1)
 
 ---
 
@@ -35,6 +52,7 @@ I’m a passionate and growth-driven developer with around **2 years of real-wor
 
 - Advanced **React** patterns & performance optimization  
 - Deeper **TypeScript** usage in frontend projects  
+
 ---
 
 ## 📫 Let’s Connect
@@ -48,4 +66,3 @@ I’m open to freelance, full-time frontend or MERN stack roles, collaborations,
 ---
 
 > “Code is not just for computers to understand — it's for humans to collaborate.”
-
