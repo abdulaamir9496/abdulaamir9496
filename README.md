@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Abdul Aamir
 
-**Frontend Developer | MERN Stack Developer | React & TypeScript Enthusiast**
+**Frontend Developer | MERN Stack Developer | React, AngularJS & TypeScript Enthusiast**
 
-I’m a passionate and growth-driven developer with around **2 years of real-world experience**, specializing in **React.js**, **TypeScript**, and the **MERN stack**. My background in **business management** gives me a unique edge in understanding product thinking and client needs.
+I’m a passionate and growth-driven developer with around **2 years of real-world experience**, specializing in **React.js**, **AngularJS**, **TypeScript**, and the **MERN stack**. My background in **business management** gives me a unique edge in understanding product thinking and client needs.
 
 ---
 
 ## 🔧 What I Do
 
-- Build responsive, scalable UIs using **React + Tailwind CSS + Vite**
+- Build responsive, scalable UIs using **React + Tailwind CSS + Vite** and **AngularJS**
 - Create and integrate **REST APIs** using **Node.js & Express**
 - Manage data with **MongoDB**
 - Use tools like **Postman**, **GitHub**, and deploy to **Render** and **Vercel**
@@ -41,6 +41,15 @@ I’m a passionate and growth-driven developer with around **2 years of real-wor
   🔗 [School Management Web App](https://school-mngmt-iota.vercel.app/)  
   (Deployed via Render & Vercel)
 
+- 🔹 **AngularJS Directory App** – *AngularJS + JSON + Routing*  
+  A single-page directory listing app built with **AngularJS**, implementing:
+  - Custom directives
+  - Route-based navigation with `ngRoute`
+  - Data rendering from local JSON using `$http`
+  - Form handling and animation with `ngAnimate`
+
+  📂 [GitHub Repo](https://github.com/abdulaamir9496/AngularJS-Basics)
+
 - 🔹 **Pizza Ordering Demo Project** – *TypeScript*  
   A frontend-only demo showcasing TypeScript basics and state management.  
   📂 [GitHub Repo](https://github.com/abdulaamir9496/TypeScript/tree/main/Demo%20Project%20Ordering%20Pizza)
@@ -55,6 +64,7 @@ I’m a passionate and growth-driven developer with around **2 years of real-wor
 
 - Advanced **React** patterns & performance optimization  
 - Deeper **TypeScript** usage in frontend projects  
+- Exploring modern alternatives to **AngularJS** like **Angular (2+)** and **Vue**
 
 ---
 
